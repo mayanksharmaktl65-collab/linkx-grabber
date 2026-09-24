@@ -1,16 +1,17 @@
 {
   "short_name": "LinkX Grabber",
-  "name": "LinkX Media Downloader Grabber",
+  "name": "LinkX Grabber - Premium Media Downloader",
   "icons": [
     {
       "src": "https://flaticon.com",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any maskable"
     }
   ],
-  "start_url": ".",
+  "start_url": "./index.html",
   "background_color": "#0f172a",
-  "theme_color": "#0284c7",
+  "theme_color": "#38bdf8",
   "display": "standalone",
   "orientation": "portrait"
 }
